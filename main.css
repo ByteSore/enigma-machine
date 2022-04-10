@@ -45,7 +45,6 @@ button {
 }
 
 .settings {
-    display: none;
     text-align: center;
     z-index: 1;
     left: 0;
@@ -87,4 +86,20 @@ button {
 
 .plugboard-settings {
     width: 100%;
+}
+
+#ground_settings {
+    display: none;
+}
+
+#ring_settings {
+    display: none;
+}
+
+#reflector_settings {
+    display: none;
+}
+
+#help_panel {
+    display: none;
 }
